@@ -2,7 +2,7 @@
   <img src="https://hermes.digitalinnovation.one/assets/diome/logo.png" alt="LogoDio" width="300px">
 </p>
 
-# Reposítório criado para registro e entrega de projeto para o curso "Criando uma Ferramenta de Controle de Investimentos com Excel"
+# Reposítório criado para registro e entrega de projeto para o curso "Criando Um Organizador de Declaração de Imposto de Renda"
 ## ÍNDICE
  <a href="#section1" style="text-decoration:none;">**1.** 📊 Apresentação de ferramenta criada</a>
 
