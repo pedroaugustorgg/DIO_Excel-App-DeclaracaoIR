@@ -15,6 +15,7 @@
 <br>
 
 ## <p id="section1"> 1. 📊 Apresentação de ferramenta criada
+
 ![Gif de apresentação inicial da planilha](images/apresentacao.gif)
 
 <br>
@@ -22,9 +23,11 @@
 ## <p id="section2"> 2. ⚙ Recursos e automações disponíveis
 ⚠️ **Observação:** Apenas os campos que precisam ser preenchidos são editáveis, os demais campos estão protegidas (bloqueadas) para edição por padrão.
 - **Ícones disponíveis com links diretamente para redes do autor**
+
 ![Parte de creditos ao autor da planilha](images/creditos.png)
 
 - **Listagem de Bancos em planilha oculta (disponível na parte de informes)**
+
 ![Imagem sobre aba oculta da planilha](images/separacao_abas.png)
 
 <br>
