@@ -21,7 +21,7 @@
 
 ## <p id="section2"> 2. ⚙ Recursos e automações disponíveis
 ⚠️ **Observação:** Apenas os campos que precisam ser preenchidos são editáveis, os demais campos estão protegidas (bloqueadas) para edição por padrão.
-- **Diferentes tipos de investimentos (planilhas) disponíveis na mesma pasta de trabalho (_workbook_)**
+- **Ícones disponíveis com links diretamente para redes do autor**
 ![Parte de creditos ao autor da planilha](images/creditos.png)
 
 - **Listagem de Bancos em planilha oculta (disponível na parte de informes)**
