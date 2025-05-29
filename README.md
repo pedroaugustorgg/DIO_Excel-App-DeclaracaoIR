@@ -33,7 +33,7 @@
 <br>
 
 ## <p id="section3"> 3. ⏯️ Curso que motivou a criação do repositório
-- **🏆 [DioBootCamp](https://web.dio.me/track/santander-excel-com-inteligencia-artificial):** BootCamp oferecido em parceria entre [SantanderAcademy](https://app.santanderopenacademy.com/pt-BR/program/excel-com-inteligencia-artificial) e a plataforma de estudos Dio.
+- **🏆 DioBootCamp [Excel com Inteligência Artificial](https://web.dio.me/track/santander-excel-com-inteligencia-artificial):** BootCamp oferecido em parceria entre [SantanderAcademy](https://app.santanderopenacademy.com/pt-BR/program/excel-com-inteligencia-artificial) e a plataforma de estudos Dio.
 
 <br>
 
